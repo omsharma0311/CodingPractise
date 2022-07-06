@@ -1,0 +1,14 @@
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\bin\Debug\netcoreapp3.1\CodingPractiseSolution.exe
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\bin\Debug\netcoreapp3.1\CodingPractiseSolution.deps.json
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\bin\Debug\netcoreapp3.1\CodingPractiseSolution.runtimeconfig.json
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\bin\Debug\netcoreapp3.1\CodingPractiseSolution.runtimeconfig.dev.json
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\bin\Debug\netcoreapp3.1\CodingPractiseSolution.dll
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\bin\Debug\netcoreapp3.1\CodingPractiseSolution.pdb
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\obj\Debug\netcoreapp3.1\CodingPractiseSolution.csproj.AssemblyReference.cache
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\obj\Debug\netcoreapp3.1\CodingPractiseSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\obj\Debug\netcoreapp3.1\CodingPractiseSolution.AssemblyInfoInputs.cache
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\obj\Debug\netcoreapp3.1\CodingPractiseSolution.AssemblyInfo.cs
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\obj\Debug\netcoreapp3.1\CodingPractiseSolution.csproj.CoreCompileInputs.cache
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\obj\Debug\netcoreapp3.1\CodingPractiseSolution.dll
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\obj\Debug\netcoreapp3.1\CodingPractiseSolution.pdb
+C:\Users\oshar\source\repos\CodingPractise\CodingPractiseSolution\obj\Debug\netcoreapp3.1\CodingPractiseSolution.genruntimeconfig.cache
